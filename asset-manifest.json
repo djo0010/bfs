@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bfsSolver-React/static/css/main.e090315e.css",
-    "main.js": "/bfsSolver-React/static/js/main.9d3235a7.js",
-    "index.html": "/bfsSolver-React/index.html",
-    "main.e090315e.css.map": "/bfsSolver-React/static/css/main.e090315e.css.map",
-    "main.9d3235a7.js.map": "/bfsSolver-React/static/js/main.9d3235a7.js.map"
+    "main.css": "/bfs/static/css/main.e090315e.css",
+    "main.js": "/bfs/static/js/main.9d3235a7.js",
+    "index.html": "/bfs/index.html",
+    "main.e090315e.css.map": "/bfs/static/css/main.e090315e.css.map",
+    "main.9d3235a7.js.map": "/bfs/static/js/main.9d3235a7.js.map"
   },
   "entrypoints": [
     "static/css/main.e090315e.css",
